@@ -60,6 +60,8 @@ This system can be used by:
    Use ngrok to expose the API and generate a public URL
    Send queries to the /ask endpoint to retrieve relevant booking information
 
+  
+---
 ## Running on a Local Machine
  1.Clone the repository:
    ```bash
@@ -78,7 +80,8 @@ This system can be used by:
    http://127.0.0.1:8000/docs
 
 Use the available endpoints to query the booking database
+---
 
-**Conclusion**
-This project demonstrates how NLP and vector-based retrieval can improve hotel booking analysis. Users can query the system using natural language and receive relevant results efficiently. This system is useful for hotel managers, travel agencies, and researchers studying booking trends.
-Contributions and suggestions are welcome. 
+ 
+ 
+ 
