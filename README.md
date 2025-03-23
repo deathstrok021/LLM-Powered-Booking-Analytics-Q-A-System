@@ -1,0 +1,2 @@
+#  LLM Powered Booking AnalyticsQ/A System
+ This project is designed to process hotel booking data and enable efficient retrieval using a Retrieval-Augmented Generation (RAG) approach. It leverages FAISS (Facebook AI Similarity Search) for fast similarity searches and Sentence Transformers for generating text embeddings. The system allows users to query hotel booking information in natural language and retrieve relevant booking details.
